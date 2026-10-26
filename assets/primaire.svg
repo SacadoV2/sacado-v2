@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 245">
+<rect width="360" height="245" rx="20" fill="#eafbf3"/>
+<rect x="98" y="18" width="180" height="210" rx="11" fill="#fff" stroke="#b9dfd0" stroke-width="2"/>
+<rect x="120" y="35" width="118" height="8" rx="4" fill="#bbead5"/>
+<text x="120" y="72" font-size="15" font-family="Arial" fill="#16604b" font-weight="bold">Complète :</text>
+<g font-size="22" font-family="Arial" fill="#173a65"><text x="121" y="108">32 = 30 + __</text><text x="121" y="148">18 = 10 + __</text><text x="121" y="188">45 = 40 + __</text></g>
+<g transform="translate(18 70)"><rect width="22" height="22" fill="#22a8e3"/><rect x="24" width="22" height="22" fill="#22a8e3"/><rect y="24" width="22" height="22" fill="#22a8e3"/><rect x="24" y="24" width="22" height="22" fill="#22a8e3"/><rect x="0" y="57" width="22" height="22" fill="#ffc64a"/><rect x="24" y="57" width="22" height="22" fill="#ffc64a"/><rect x="0" y="81" width="22" height="22" fill="#ffc64a"/><rect x="24" y="81" width="22" height="22" fill="#ffc64a"/></g>
+</svg>

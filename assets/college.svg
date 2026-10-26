@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 245">
+<rect width="360" height="245" rx="20" fill="#eaf7ff"/>
+<rect x="42" y="19" width="276" height="210" rx="11" fill="#fff" stroke="#b8ddec" stroke-width="2"/>
+<text x="62" y="45" font-size="15" font-family="Arial" font-weight="bold" fill="#174879">Construire un triangle</text>
+<g stroke="#e2ecf5" stroke-width="1"><path d="M70 62V207 M95 62V207 M120 62V207 M145 62V207 M170 62V207 M195 62V207 M220 62V207 M245 62V207 M270 62V207 M295 62V207"/><path d="M62 75H301 M62 100H301 M62 125H301 M62 150H301 M62 175H301 M62 200H301"/></g>
+<path d="M105 186 L185 79 L268 186 Z" fill="#b5e2ff" fill-opacity=".65" stroke="#117ad3" stroke-width="4" stroke-linejoin="round"/>
+<g fill="#0d569d"><circle cx="105" cy="186" r="4"/><circle cx="185" cy="79" r="4"/><circle cx="268" cy="186" r="4"/></g>
+<g font-size="15" font-family="Arial" font-weight="bold" fill="#164b7c"><text x="90" y="203">A</text><text x="183" y="70">B</text><text x="272" y="203">C</text></g>
+</svg>

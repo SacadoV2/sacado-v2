@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 245">
+<rect width="360" height="245" rx="20" fill="#f8efff"/>
+<rect x="19" y="18" width="205" height="210" rx="11" fill="#fff" stroke="#e2c9fa" stroke-width="2"/>
+<g stroke="#eee4f6"><path d="M43 53H206 M43 83H206 M43 113H206 M43 143H206 M43 173H206 M43 203H206 M58 38V210 M88 38V210 M118 38V210 M148 38V210 M178 38V210"/></g>
+<path d="M40 172H207 M85 211V35" stroke="#66759d" stroke-width="2"/>
+<path d="M46 197 Q91 189 118 152 T202 49" stroke="#ce32b8" stroke-width="4" fill="none" stroke-linecap="round"/>
+<rect x="231" y="45" width="116" height="154" rx="11" fill="#132c57"/>
+<text x="245" y="69" font-size="13" font-family="monospace" fill="#9ee0ff">Python</text>
+<g font-size="10.5" font-family="monospace" fill="#d8e5ff"><text x="242" y="97">def f(x):</text><text x="250" y="116">return x*x</text><text x="242" y="146">for x in</text><text x="250" y="165">range(5):</text><text x="258" y="184">print(f(x))</text></g>
+</svg>
